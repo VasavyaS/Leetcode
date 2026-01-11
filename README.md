@@ -6,7 +6,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 - **Total Problems Solved:** 3
 - **Easy:** 1 🟢
-- **Medium:** 2 🟡
+- **Medium:** 1 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -15,7 +15,6 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 |---------|-----------|----------|------|
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 🟢 Easy | python3 | 2026-01-11 |
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/submissions/1881586333/) | 🟡 Medium | python3 | 2026-01-11 |
-| [Unknown Problem](https://leetcode.com/problems/contains-duplicate/submissions/1881395953/) | 🟡 Medium | python3 | 2026-01-11 |
 
 ---
 
