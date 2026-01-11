@@ -1,7 +1,7 @@
 #
 # Problem: 355. Design Twitter
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/design-twitter/submissions/1881586333/
+# Link: https://leetcode.com/problems/design-twitter/description/
 # Language: python3
 # Date: 2026-01-11
 
