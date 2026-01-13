@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 5
-- **Easy:** 2 🟢
+- **Total Problems Solved:** 6
+- **Easy:** 3 🟢
 - **Medium:** 3 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | 🟢 Easy | python3 | 2026-01-13 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 🟢 Easy | python3 | 2026-01-11 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1881594963/) | 🟢 Easy | python3 | 2026-01-11 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | 🟡 Medium | python3 | 2026-01-11 |
