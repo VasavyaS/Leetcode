@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 10
+- **Total Problems Solved:** 11
 - **Easy:** 3 🟢
-- **Medium:** 7 🟡
+- **Medium:** 8 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 🟢 Easy | python3 | 2026-01-11 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1881594963/) | 🟢 Easy | python3 | 2026-01-11 |
 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-21 |
+| [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/submissions/1894040157/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-23 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | 🟡 Medium | python3 | 2026-01-13 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | 🟡 Medium | python3 | 2026-01-11 |
 | [2380. Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-22 |
