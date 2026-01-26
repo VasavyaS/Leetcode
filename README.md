@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 11
+- **Total Problems Solved:** 12
 - **Easy:** 3 🟢
-- **Medium:** 8 🟡
+- **Medium:** 9 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2380. Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/submissions/1892915034/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-22 |
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/submissions/1881586333/) | 🟡 Medium | python3 | 2026-01-11 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | python3 | 2026-01-11 |
+| [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-26 |
 
 ---
 
