@@ -1,7 +1,7 @@
 #
 # Problem: 20. Valid Parentheses
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/valid-parentheses/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
+# Link: https://leetcode.com/problems/valid-parentheses/submissions/1902589879/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
 # Date: 2026-01-31
 
