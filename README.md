@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
-- **Easy:** 7 🟢
+- **Total Problems Solved:** 18
+- **Easy:** 8 🟢
 - **Medium:** 10 🟡
 - **Hard:** 0 🔴
 
@@ -20,6 +20,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 🟢 Easy | python3 | 2026-01-11 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1881594963/) | 🟢 Easy | python3 | 2026-01-11 |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1902593901/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-21 |
 | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/submissions/1894040157/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-23 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | 🟡 Medium | python3 | 2026-01-13 |
