@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 33
-- **Easy:** 23 🟢
+- **Total Problems Solved:** 34
+- **Easy:** 24 🟢
 - **Medium:** 10 🟡
 - **Hard:** 0 🔴
 
@@ -16,6 +16,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | 🟢 Easy | python3 | 2026-01-13 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
+| [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/submissions/1904951822/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
