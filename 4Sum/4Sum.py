@@ -1,7 +1,7 @@
 #
 # Problem: 4Sum
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/4sum/submissions/1906434383/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
+# Link: https://leetcode.com/problems/4sum/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
 # Date: 2026-02-03
 
@@ -21,7 +21,7 @@ class Solution:
                     kSum(k -1, i + 1 , target - nums[i] )
                     quad.pop()
                 return
-            
+# For last 2 elements
             l = start
             r = len(nums) - 1
             while l < r:
