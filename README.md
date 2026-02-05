@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 54
+- **Total Problems Solved:** 55
 - **Easy:** 27 🟢
-- **Medium:** 27 🟡
+- **Medium:** 28 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -50,6 +50,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/1905196788/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-02 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1908752449/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
+| [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/1908795270/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/1906489256/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | 🟡 Medium | python3 | 2026-01-11 |
 | [2380. Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-22 |
