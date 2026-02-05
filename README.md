@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 52
+- **Total Problems Solved:** 53
 - **Easy:** 27 🟢
-- **Medium:** 25 🟡
+- **Medium:** 26 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -47,6 +47,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/1908664701/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | 🟡 Medium | python3 | 2026-01-13 |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1906405129/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
+| [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/1905196788/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-02 |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/1906489256/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | 🟡 Medium | python3 | 2026-01-11 |
