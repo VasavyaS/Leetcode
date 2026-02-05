@@ -1,7 +1,7 @@
 #
 # Problem: 238. Product of Array Except Self
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/product-of-array-except-self/submissions/1908871795/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
+# Link: https://leetcode.com/problems/product-of-array-except-self/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
 # Date: 2026-02-05
 
