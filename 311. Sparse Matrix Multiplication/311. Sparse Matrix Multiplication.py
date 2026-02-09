@@ -1,7 +1,7 @@
 #
 # Problem: 311. Sparse Matrix Multiplication
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/sparse-matrix-multiplication/submissions/1912943556/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
+# Link: https://leetcode.com/problems/sparse-matrix-multiplication/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
 # Date: 2026-02-09
 
