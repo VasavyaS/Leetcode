@@ -1,33 +1,39 @@
 #
 # Problem: 3Sum
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/3sum/description/
+# Link: https://leetcode.com/problems/3sum/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
-# Date: 2026-01-13
+# Date: 2026-02-10
 
 
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
         nums.sort()
+        res =[]
+        tri = []
+        def ksum(k, start, target):
+            if k != 2:
+                for i in range(start, len(nums)-k+1):
+                    if i > start and nums[i] == nums[i-1]:
+                        continue
+                    tri.append(nums[i])
+                    ksum(k-1, i + 1, target - nums[i])
+                    tri.pop()
+                return
+            l = start
+            r = len(nums) - 1
 
-        for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
-            j = i + 1
-            k = len(nums) - 1
-            
-            while j < k:
-                triplet = nums[i] + nums[j] + nums[k]
-                if triplet < 0:
-                    j += 1
-                elif triplet > 0:
-                    k -= 1
+            while l < r:
+                if nums[l] + nums[r] < target:
+                    l += 1
+                elif nums[l] + nums[r] > target:
+                    r -= 1
                 else:
-                    res.append([nums[i], nums[j], nums[k]])
-                    j += 1
-                    k -= 1
-                    while nums[j] == nums[j-1] and j < k:
-                        j += 1
+                    res.append(tri+[nums[l], nums[r]])
+                    l += 1
+                    while l < r and nums[l] == nums[l-1]:
+                        l += 1
+        ksum(3, 0, 0)
         return res
-# O(n^2) O(n^2) or O(1)
+
+# O(n^2) O(nlogn) or O(1)
