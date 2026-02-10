@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 69
+- **Total Problems Solved:** 70
 - **Easy:** 28 🟢
-- **Medium:** 41 🟡
+- **Medium:** 42 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -45,6 +45,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-21 |
 | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/submissions/1894040157/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-23 |
 | [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
+| [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/1908664701/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | 🟡 Medium | python3 | 2026-01-13 |
