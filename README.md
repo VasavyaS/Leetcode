@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 75
-- **Easy:** 30 🟢
+- **Total Problems Solved:** 76
+- **Easy:** 31 🟢
 - **Medium:** 45 🟡
 - **Hard:** 0 🔴
 
@@ -13,6 +13,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
+| [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | 🟢 Easy | python3 | 2026-02-19 |
 | [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | 🟢 Easy | python3 | 2026-01-13 |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
