@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 74
-- **Easy:** 29 🟢
+- **Total Problems Solved:** 75
+- **Easy:** 30 🟢
 - **Medium:** 45 🟡
 - **Hard:** 0 🔴
 
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1904134579/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 🟢 Easy | python3 | 2026-01-11 |
+| [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | python3 | 2026-02-19 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1881594963/) | 🟢 Easy | python3 | 2026-01-11 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1904138257/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1902593901/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
