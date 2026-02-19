@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 73
-- **Easy:** 28 🟢
+- **Total Problems Solved:** 74
+- **Easy:** 29 🟢
 - **Medium:** 45 🟡
 - **Hard:** 0 🔴
 
@@ -34,6 +34,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/submissions/1904826097/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/submissions/1834026154/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [415. Add Strings](https://leetcode.com/problems/add-strings/submissions/1904880603/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
+| [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | python3 | 2026-02-19 |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1904885720/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/1904897612/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/1902596057/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
