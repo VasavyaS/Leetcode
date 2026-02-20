@@ -1,7 +1,7 @@
 #
 # Problem: 253. Meeting Rooms II
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/meeting-rooms-ii/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
+# Link: https://leetcode.com/problems/meeting-rooms-ii/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
 # Date: 2026-02-20
 
@@ -24,3 +24,4 @@ class Solution:
                 e += 1
             res = max(res, count)
         return res
+# O(nlogn) O(n)
