@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 86
+- **Total Problems Solved:** 87
 - **Easy:** 32 🟢
-- **Medium:** 54 🟡
+- **Medium:** 55 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -91,6 +91,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/1907606666/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-19 |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
+| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-19 |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-26 |
