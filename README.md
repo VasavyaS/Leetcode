@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 82
+- **Total Problems Solved:** 83
 - **Easy:** 32 🟢
-- **Medium:** 50 🟡
+- **Medium:** 51 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -89,6 +89,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [55. Jump Game](https://leetcode.com/problems/jump-game/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-19 |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-19 |
+| [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-26 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/submissions/1906347881/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-28 |
