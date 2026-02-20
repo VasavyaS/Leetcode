@@ -25,3 +25,4 @@ class Solution:
                     newidx += 1
             i += 1
         return newidx
+# O(n) O(1)
