@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 85
+- **Total Problems Solved:** 86
 - **Easy:** 32 🟢
-- **Medium:** 53 🟡
+- **Medium:** 54 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -81,6 +81,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3Sum](https://leetcode.com/problems/3sum/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
 | [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
 | [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
+| [443. String Compression](https://leetcode.com/problems/string-compression/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [443. String Compression](https://leetcode.com/problems/string-compression/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [46. Permutations](https://leetcode.com/problems/permutations/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | 🟡 Medium | python3 | 2026-01-11 |
