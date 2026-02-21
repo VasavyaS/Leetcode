@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 92
+- **Total Problems Solved:** 93
 - **Easy:** 32 🟢
-- **Medium:** 60 🟡
+- **Medium:** 61 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -102,6 +102,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/submissions/1906347881/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-28 |
+| [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/submissions/1905159272/) | 🟡 Medium | python3 | 2026-02-02 |
 | [Unknown Problem](https://leetcode.com/problems/reverse-integer/submissions/1906287874/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [Unknown Problem](https://leetcode.com/problems/merge-intervals/submissions/1907635166/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
