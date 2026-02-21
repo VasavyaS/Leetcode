@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 91
+- **Total Problems Solved:** 92
 - **Easy:** 32 🟢
-- **Medium:** 59 🟡
+- **Medium:** 60 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -100,6 +100,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-26 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/submissions/1906347881/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
+| [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-28 |
 | [Unknown Problem](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/submissions/1905159272/) | 🟡 Medium | python3 | 2026-02-02 |
 | [Unknown Problem](https://leetcode.com/problems/reverse-integer/submissions/1906287874/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
