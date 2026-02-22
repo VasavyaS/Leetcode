@@ -26,3 +26,4 @@ class Solution:
                     visit.add((i+dr, j+dc))
         
         return -1
+# O(n) O(n)
