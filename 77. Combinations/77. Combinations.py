@@ -1,7 +1,7 @@
 #
 # Problem: 77. Combinations
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/combinations/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
+# Link: https://leetcode.com/problems/combinations/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
 # Date: 2026-02-22
 
