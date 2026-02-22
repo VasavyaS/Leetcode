@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 98
+- **Total Problems Solved:** 99
 - **Easy:** 32 🟢
-- **Medium:** 66 🟡
+- **Medium:** 67 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -46,6 +46,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/submissions/1904924647/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-06 |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
+| [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-21 |
 | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/submissions/1894040157/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-23 |
