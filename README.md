@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 106
+- **Total Problems Solved:** 107
 - **Easy:** 35 🟢
-- **Medium:** 71 🟡
+- **Medium:** 72 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -89,6 +89,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
 | [3Sum](https://leetcode.com/problems/3sum/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
 | [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
+| [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/) | 🟡 Medium | python3 | 2026-02-23 |
 | [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [443. String Compression](https://leetcode.com/problems/string-compression/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [443. String Compression](https://leetcode.com/problems/string-compression/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
