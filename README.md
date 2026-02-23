@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 107
+- **Total Problems Solved:** 108
 - **Easy:** 35 🟢
-- **Medium:** 72 🟡
+- **Medium:** 73 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -66,6 +66,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/1905196788/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-02 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1908752449/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
+| [2043. Simple Bank System](https://leetcode.com/problems/simple-bank-system/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-23 |
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/1908795270/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/1906489256/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
