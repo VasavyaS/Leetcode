@@ -1,9 +1,9 @@
 #
 # Problem: 118. Pascal's Triangle
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/pascals-triangle/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
+# Link: https://leetcode.com/problems/pascals-triangle/
 # Language: python3
-# Date: 2026-01-31
+# Date: 2026-02-23
 
 
 class Solution:
@@ -18,3 +18,5 @@ class Solution:
                 row.append(add)
             res.append(row)
         return res
+    
+    # Total element : O(numRows *(numRows + 1)/2) = O(numRows^2)
