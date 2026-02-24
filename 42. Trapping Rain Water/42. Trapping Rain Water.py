@@ -1,28 +1,27 @@
 #
 # Problem: 42. Trapping Rain Water
 # Difficulty: Hard
-# Link: https://leetcode.com/problems/trapping-rain-water/description/
+# Link: https://leetcode.com/problems/trapping-rain-water/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
-# Date: 2026-01-13
+# Date: 2026-02-24
 
 
 class Solution:
     def trap(self, height: List[int]) -> int:
-# min(l, r) - h[i]
         l = 0
         r = len(height) - 1
-        lMax = height[l]
-        rMax = height[r]
-        water = 0
+        lmax = height[l]
+        rmax = height[r]
+        ans = 0
 
         while l < r:
-            if lMax < rMax:
-                water += min(lMax, rMax) - height[l]
+            if lmax < rmax:
+                ans += min(lmax, rmax) - height[l]
                 l += 1
-                lMax = max(lMax, height[l])
+                lmax = max(lmax, height[l])
             else:
-                water += min(lMax, rMax) - height[r]
+                ans += min(lmax, rmax) - height[r]
                 r -= 1
-                rMax = max(rMax, height[r])
-        return water
-# O(n) O(1)
+                rmax = max(rmax, height[r])
+        return ans
+
