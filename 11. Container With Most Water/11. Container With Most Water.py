@@ -1,24 +1,22 @@
 #
 # Problem: 11. Container With Most Water
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/container-with-most-water/description/
+# Link: https://leetcode.com/problems/container-with-most-water/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
 # Language: python3
-# Date: 2026-01-13
+# Date: 2026-02-26
 
 
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        maxAr = 0
-        i = 0 
+        max_area = 0
+        i = 0
         j = len(height) - 1
 
         while i < j:
-            area = (j - i) * min(height[i], height[j])
-            maxAr = max(maxAr, area)
+            ar = (j - i) * min(height[j], height[i])
+            max_area = max(max_area, ar)
             if height[i] < height[j]:
                 i += 1
             else:
                 j -= 1
-        return maxAr
-
-        
+        return max_area
