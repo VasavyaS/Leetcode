@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 120
+- **Total Problems Solved:** 121
 - **Easy:** 35 🟢
-- **Medium:** 83 🟡
+- **Medium:** 84 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -75,6 +75,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/1908795270/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/1906489256/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
+| [2265. Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-27 |
 | [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/1908857920/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | 🟡 Medium | python3 | 2026-01-11 |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/1908871795/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
