@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 121
+- **Total Problems Solved:** 122
 - **Easy:** 35 🟢
-- **Medium:** 84 🟡
+- **Medium:** 85 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -86,6 +86,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
+| [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/?envType=company&envId=facebook&favoriteSlug=facebook-three-months) | 🟡 Medium | python3 | 2026-02-27 |
 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/submissions/1912943556/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-09 |
 | [314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-09 |
 | [322. Coin Change](https://leetcode.com/problems/coin-change/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
