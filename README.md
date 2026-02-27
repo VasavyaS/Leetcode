@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 119
+- **Total Problems Solved:** 120
 - **Easy:** 35 🟢
-- **Medium:** 82 🟡
+- **Medium:** 83 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -66,6 +66,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | 🟡 Medium | python3 | 2026-01-13 |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1906405129/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [1762. Buildings With an Ocean View](https://leetcode.com/problems/buildings-with-an-ocean-view/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-26 |
+| [1868. Product of Two Run-Length Encoded Arrays](https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-27 |
 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/1905196788/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-02 |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/1908752449/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
