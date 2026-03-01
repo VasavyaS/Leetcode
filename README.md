@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 123
+- **Total Problems Solved:** 124
 - **Easy:** 35 🟢
-- **Medium:** 86 🟡
+- **Medium:** 87 🟡
 - **Hard:** 2 🔴
 
 ## 📝 Problems
@@ -85,6 +85,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
+| [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-03-01 |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/?envType=company&envId=facebook&favoriteSlug=facebook-three-months) | 🟡 Medium | python3 | 2026-02-27 |
 | [311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/submissions/1912943556/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-09 |
