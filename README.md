@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 126
+- **Total Problems Solved:** 127
 - **Easy:** 35 🟢
 - **Medium:** 88 🟡
-- **Hard:** 3 🔴
+- **Hard:** 4 🔴
 
 ## 📝 Problems
 
@@ -136,6 +136,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/submissions/1905159272/) | 🟡 Medium | python3 | 2026-02-02 |
 | [Unknown Problem](https://leetcode.com/problems/reverse-integer/submissions/1906287874/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [Unknown Problem](https://leetcode.com/problems/merge-intervals/submissions/1907635166/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
+| [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-03-02 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-02-24 |
 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/?envType=company&envId=facebook&favoriteSlug=facebook-three-months) | 🔴 Hard | python3 | 2026-03-01 |
 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1929461624/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-02-24 |
