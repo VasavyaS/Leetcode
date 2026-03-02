@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 127
+- **Total Problems Solved:** 128
 - **Easy:** 35 🟢
-- **Medium:** 88 🟡
+- **Medium:** 89 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -95,6 +95,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-26 |
 | [339. Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-09 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1906477470/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
+| [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | 🟡 Medium | python3 | 2026-03-02 |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-09 |
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/submissions/1881586333/) | 🟡 Medium | python3 | 2026-01-11 |
 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-24 |
