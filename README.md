@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 130
-- **Easy:** 36 🟢
+- **Total Problems Solved:** 131
+- **Easy:** 37 🟢
 - **Medium:** 90 🟡
 - **Hard:** 4 🔴
 
@@ -42,6 +42,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | python3 | 2026-02-19 |
 | [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy | python3 | 2026-03-02 |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/1904885720/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
+| [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/) | 🟢 Easy | python3 | 2026-04-18 |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | python3 | 2026-02-19 |
 | [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/submissions/1904897612/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/1902596057/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
