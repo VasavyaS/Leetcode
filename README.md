@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 131
+- **Total Problems Solved:** 132
 - **Easy:** 37 🟢
-- **Medium:** 90 🟡
+- **Medium:** 91 🟡
 - **Hard:** 4 🔴
 
 ## 📝 Problems
@@ -103,6 +103,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/submissions/1881586333/) | 🟡 Medium | python3 | 2026-01-11 |
 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-24 |
 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-24 |
+| [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/submissions/1981464828/) | 🟡 Medium | python3 | 2026-04-18 |
 | [378. Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
 | [3Sum](https://leetcode.com/problems/3sum/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
 | [419. Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-10 |
