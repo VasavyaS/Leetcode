@@ -1,7 +1,7 @@
 #
 # Problem: 364. Nested List Weight Sum II
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/nested-list-weight-sum-ii/submissions/1981464828/
+# Link: https://leetcode.com/problems/nested-list-weight-sum-ii/description/
 # Language: python3
 # Date: 2026-04-18
 
