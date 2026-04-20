@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 132
+- **Total Problems Solved:** 133
 - **Easy:** 37 🟢
 - **Medium:** 91 🟡
-- **Hard:** 4 🔴
+- **Hard:** 5 🔴
 
 ## 📝 Problems
 
@@ -143,6 +143,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/merge-intervals/submissions/1907635166/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-03-02 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-02-24 |
+| [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/description/) | 🔴 Hard | python3 | 2026-04-20 |
 | [827. Making A Large Island](https://leetcode.com/problems/making-a-large-island/?envType=company&envId=facebook&favoriteSlug=facebook-three-months) | 🔴 Hard | python3 | 2026-03-01 |
 | [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/submissions/1929461624/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-02-24 |
 
