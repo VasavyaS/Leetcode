@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 133
+- **Total Problems Solved:** 134
 - **Easy:** 37 🟢
-- **Medium:** 91 🟡
+- **Medium:** 92 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -87,6 +87,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2380. Time Needed to Rearrange a Binary String](https://leetcode.com/problems/time-needed-to-rearrange-a-binary-string/submissions/1892915034/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-22 |
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
+| [2831. Find the Longest Equal Subarray](https://leetcode.com/problems/find-the-longest-equal-subarray/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all) | 🟡 Medium | python3 | 2026-05-03 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-03-01 |
 | [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
