@@ -1,7 +1,7 @@
 #
 # Problem: 2086. Minimum Number of Food Buckets to Feed the Hamsters
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months
+# Link: https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months
 # Language: python3
 # Date: 2026-05-04
 
@@ -22,7 +22,7 @@ class Solution:
                         continue
                     else:
                         return -1
-                elif (i+1) < n and hamsters[i+1] == '.':
+                elif (i+1) < n and hamsters[i+1] == '.': # 4. next is empty
                     hamsters[i+1] = 'B'
                     count += 1
                     continue
