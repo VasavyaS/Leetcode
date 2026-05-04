@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 136
+- **Total Problems Solved:** 137
 - **Easy:** 37 🟢
-- **Medium:** 94 🟡
+- **Medium:** 95 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -138,6 +138,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/submissions/1906347881/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
+| [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months) | 🟡 Medium | python3 | 2026-05-04 |
 | [934. Shortest Bridge](https://leetcode.com/problems/shortest-bridge/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-28 |
 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-26 |
