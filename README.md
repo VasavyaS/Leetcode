@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 139
-- **Easy:** 37 🟢
+- **Total Problems Solved:** 140
+- **Easy:** 38 🟢
 - **Medium:** 97 🟡
 - **Hard:** 5 🔴
 
@@ -50,6 +50,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [888. Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/submissions/1904924647/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [933. Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-06 |
+| [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🟢 Easy | python3 | 2026-05-10 |
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-26 |
