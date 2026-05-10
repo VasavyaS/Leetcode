@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 140
-- **Easy:** 38 🟢
+- **Total Problems Solved:** 141
+- **Easy:** 39 🟢
 - **Medium:** 97 🟡
 - **Hard:** 5 🔴
 
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1266. Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/submissions/1904951822/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
+| [1475. Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🟢 Easy | python3 | 2026-05-10 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
 | [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/1905126898/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-02 |
