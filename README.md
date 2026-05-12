@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 141
-- **Easy:** 39 🟢
+- **Total Problems Solved:** 142
+- **Easy:** 40 🟢
 - **Medium:** 97 🟡
 - **Hard:** 5 🔴
 
@@ -38,6 +38,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1902593901/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1904183931/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/submissions/1904826097/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
+| [359. Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-three-months) | 🟢 Easy | python3 | 2026-05-12 |
 | [408. Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/submissions/1834026154/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [415. Add Strings](https://leetcode.com/problems/add-strings/submissions/1904880603/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | 🟢 Easy | python3 | 2026-02-19 |
