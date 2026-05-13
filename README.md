@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 142
-- **Easy:** 40 🟢
+- **Total Problems Solved:** 143
+- **Easy:** 41 🟢
 - **Medium:** 97 🟡
 - **Hard:** 5 🔴
 
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-22 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1881594963/) | 🟢 Easy | python3 | 2026-01-11 |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1904138257/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
+| [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months) | 🟢 Easy | python3 | 2026-05-13 |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1902593901/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/1904183931/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [346. Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/submissions/1904826097/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
