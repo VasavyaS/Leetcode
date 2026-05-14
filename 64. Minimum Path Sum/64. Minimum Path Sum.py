@@ -1,7 +1,7 @@
 #
 # Problem: 64. Minimum Path Sum
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-path-sum/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months
+# Link: https://leetcode.com/problems/minimum-path-sum/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months
 # Language: python3
 # Date: 2026-05-14
 
@@ -16,3 +16,4 @@ class Solution:
             for j in range(cols-1, -1, -1):
                 res[i][j] = grid[i][j] + min(res[i+1][j], res[i][j+1])
         return res[0][0]
+# DP. min for right and down. bottom up
