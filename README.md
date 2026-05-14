@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 143
+- **Total Problems Solved:** 144
 - **Easy:** 41 🟢
-- **Medium:** 97 🟡
+- **Medium:** 98 🟡
 - **Hard:** 5 🔴
 
 ## 📝 Problems
@@ -134,6 +134,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | 🟡 Medium | python3 | 2026-02-20 |
 | [57. Insert Interval](https://leetcode.com/problems/insert-interval/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-19 |
 | [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
+| [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months) | 🟡 Medium | python3 | 2026-05-14 |
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/submissions/1926097956/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/?envType=company&envId=facebook&favoriteSlug=facebook-three-months) | 🟡 Medium | python3 | 2026-02-27 |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
