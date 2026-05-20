@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 147
+- **Total Problems Solved:** 148
 - **Easy:** 41 🟢
 - **Medium:** 101 🟡
-- **Hard:** 5 🔴
+- **Hard:** 6 🔴
 
 ## 📝 Problems
 
@@ -155,6 +155,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/submissions/1905159272/) | 🟡 Medium | python3 | 2026-02-02 |
 | [Unknown Problem](https://leetcode.com/problems/reverse-integer/submissions/1906287874/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [Unknown Problem](https://leetcode.com/problems/merge-intervals/submissions/1907635166/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
+| [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/description/?envType=company&envId=uber&favoriteSlug=uber-three-months) | 🔴 Hard | python3 | 2026-05-20 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-03-02 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-02-24 |
 | [489. Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/description/) | 🔴 Hard | python3 | 2026-04-20 |
