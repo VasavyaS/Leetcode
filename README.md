@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 152
+- **Total Problems Solved:** 153
 - **Easy:** 41 🟢
-- **Medium:** 103 🟡
+- **Medium:** 104 🟡
 - **Hard:** 8 🔴
 
 ## 📝 Problems
@@ -57,6 +57,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [1091. Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-26 |
+| [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🟡 Medium | python3 | 2026-05-20 |
 | [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🟡 Medium | python3 | 2026-05-20 |
 | [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🟡 Medium | python3 | 2026-05-20 |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
