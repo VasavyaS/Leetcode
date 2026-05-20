@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 151
+- **Total Problems Solved:** 152
 - **Easy:** 41 🟢
 - **Medium:** 103 🟡
-- **Hard:** 7 🔴
+- **Hard:** 8 🔴
 
 ## 📝 Problems
 
@@ -157,6 +157,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [Unknown Problem](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/submissions/1905159272/) | 🟡 Medium | python3 | 2026-02-02 |
 | [Unknown Problem](https://leetcode.com/problems/reverse-integer/submissions/1906287874/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
 | [Unknown Problem](https://leetcode.com/problems/merge-intervals/submissions/1907635166/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
+| [2858. Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🔴 Hard | python3 | 2026-05-20 |
 | [2858. Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🔴 Hard | python3 | 2026-05-20 |
 | [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/description/?envType=company&envId=uber&favoriteSlug=uber-three-months) | 🔴 Hard | python3 | 2026-05-20 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-03-02 |
