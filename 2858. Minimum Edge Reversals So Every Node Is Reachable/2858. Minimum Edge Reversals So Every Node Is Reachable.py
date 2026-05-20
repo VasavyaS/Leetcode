@@ -8,22 +8,46 @@
 
 class Solution:
     def minEdgeReversals(self, n: int, edges: List[List[int]]) -> List[int]:
-        g, ans, zeroCnt = defaultdict(list), defaultdict(int), 0
+        graph = defaultdict(list)
 
         for u, v in edges:
-            g[u].append((v, 1))
-            g[v].append((u,-1))
+            graph[u].append((v, 0))  # original direction, no reversal from u to v
+            graph[v].append((u, 1))  # reverse direction, would need 1 reversal
 
-        queue = deque([(0,0)])
+        ans = [0] * n
+        visited = set()
 
-        while queue:
-             par, parCnt = queue.pop()
-             ans[par] = parCnt
+        # Count reversals needed when root = 0
+        def dfs_count(node):
+            visited.add(node)
+            total = 0
 
-             for chd,cnt in g[par]:
-                if chd in ans: continue
-                zeroCnt+= cnt
-                queue.append((chd,cnt+parCnt))
+            for nei, cost in graph[node]:
+                if nei in visited:
+                    continue
+                total += cost
+                total += dfs_count(nei)
 
-        ans0 = (n-1-zeroCnt)//2
-        return [ans[i] + ans0 for i in range(n)] 
+            return total
+
+        ans[0] = dfs_count(0)
+
+        visited.clear()
+
+        # Reroot answers
+        def dfs_reroot(node):
+            visited.add(node)
+
+            for nei, cost in graph[node]:
+                if nei in visited:
+                    continue
+
+                if cost == 0:
+                    ans[nei] = ans[node] + 1
+                else:
+                    ans[nei] = ans[node] - 1
+
+                dfs_reroot(nei)
+
+        dfs_reroot(0)
+        return ans
