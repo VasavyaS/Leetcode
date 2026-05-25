@@ -1,9 +1,9 @@
 #
 # Problem: 21. Merge Two Sorted Lists
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days
+# Link: https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all
 # Language: python3
-# Date: 2026-01-31
+# Date: 2026-05-25
 
 
 # Definition for singly-linked list.
@@ -25,5 +25,4 @@ class Solution:
             cur = cur.next
         
         cur.next = list1 or list2
-
         return dummy.next
