@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 159
+- **Total Problems Solved:** 160
 - **Easy:** 42 🟢
-- **Medium:** 108 🟡
+- **Medium:** 109 🟡
 - **Hard:** 9 🔴
 
 ## 📝 Problems
@@ -63,6 +63,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🟡 Medium | python3 | 2026-05-20 |
 | [1101. The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🟡 Medium | python3 | 2026-05-20 |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-06 |
+| [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all) | 🟡 Medium | python3 | 2026-05-25 |
 | [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-21 |
 | [1219. Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/submissions/1894040157/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-23 |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | 🟡 Medium | python3 | 2026-03-02 |
