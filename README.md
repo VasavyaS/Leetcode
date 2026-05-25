@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 158
-- **Easy:** 41 🟢
+- **Total Problems Solved:** 159
+- **Easy:** 42 🟢
 - **Medium:** 108 🟡
 - **Hard:** 9 🔴
 
@@ -30,6 +30,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1904134579/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-01 |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-01-31 |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all) | 🟢 Easy | python3 | 2026-05-25 |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | 🟢 Easy | python3 | 2026-01-11 |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | 🟢 Easy | python3 | 2026-02-19 |
 | [231. Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟢 Easy | python3 | 2026-02-22 |
