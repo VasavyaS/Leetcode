@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 156
+- **Total Problems Solved:** 157
 - **Easy:** 41 🟢
-- **Medium:** 106 🟡
+- **Medium:** 107 🟡
 - **Hard:** 9 🔴
 
 ## 📝 Problems
@@ -73,6 +73,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/description/?envType=company&envId=uber&favoriteSlug=uber-three-months) | 🟡 Medium | python3 | 2026-05-19 |
 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/submissions/2012067389/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all) | 🟡 Medium | python3 | 2026-05-24 |
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-04 |
+| [155. Min Stack](https://leetcode.com/problems/min-stack/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all) | 🟡 Medium | python3 | 2026-05-25 |
 | [1570. Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/1908664701/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-23 |
