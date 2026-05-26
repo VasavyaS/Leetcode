@@ -1,13 +1,21 @@
 #
 # Problem: 692. Top K Frequent Words
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/top-k-frequent-words/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months
+# Link: https://leetcode.com/problems/top-k-frequent-words/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all
 # Language: python3
-# Date: 2026-05-15
+# Date: 2026-05-26
 
 
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
         counter = Counter(words)
-        return [word for word,_ in sorted(counter.items(), key = lambda x: (-x[-1], x[0]))[:k]
-        ]
+        res = []
+
+        heap = [(-count, word) for word, count in counter.items()]
+        heapq.heapify(heap)
+
+        for _ in range(k):
+            res.append(heapq.heappop(heap)[1])
+        
+        return res
+
