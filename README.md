@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 161
+- **Total Problems Solved:** 162
 - **Easy:** 42 🟢
-- **Medium:** 109 🟡
+- **Medium:** 110 🟡
 - **Hard:** 10 🔴
 
 ## 📝 Problems
@@ -149,6 +149,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/submissions/1926097956/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [670. Maximum Swap](https://leetcode.com/problems/maximum-swap/description/?envType=company&envId=facebook&favoriteSlug=facebook-three-months) | 🟡 Medium | python3 | 2026-02-27 |
 | [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months) | 🟡 Medium | python3 | 2026-05-15 |
+| [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all) | 🟡 Medium | python3 | 2026-05-26 |
 | [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=company&envId=salesforce&favoriteSlug=salesforce-three-months) | 🟡 Medium | python3 | 2026-01-26 |
 | [77. Combinations](https://leetcode.com/problems/combinations/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
