@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 164
+- **Total Problems Solved:** 165
 - **Easy:** 42 🟢
-- **Medium:** 111 🟡
+- **Medium:** 112 🟡
 - **Hard:** 11 🔴
 
 ## 📝 Problems
@@ -157,6 +157,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [77. Combinations](https://leetcode.com/problems/combinations/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-26 |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/submissions/1906347881/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-03 |
+| [853. Car Fleet](https://leetcode.com/problems/car-fleet/description/?envType=company&envId=waymo&favoriteSlug=waymo-all) | 🟡 Medium | python3 | 2026-05-27 |
 | [863. All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-more-than-six-months) | 🟡 Medium | python3 | 2026-05-04 |
