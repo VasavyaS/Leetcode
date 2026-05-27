@@ -4,10 +4,10 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 165
+- **Total Problems Solved:** 166
 - **Easy:** 42 🟢
 - **Medium:** 112 🟡
-- **Hard:** 11 🔴
+- **Hard:** 12 🔴
 
 ## 📝 Problems
 
@@ -172,6 +172,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2858. Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🔴 Hard | python3 | 2026-05-20 |
 | [2858. Minimum Edge Reversals So Every Node Is Reachable](https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable/description/?envType=company&envId=uber&favoriteSlug=uber-thirty-days) | 🔴 Hard | python3 | 2026-05-20 |
 | [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/description/?envType=company&envId=uber&favoriteSlug=uber-three-months) | 🔴 Hard | python3 | 2026-05-20 |
+| [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/description/?envType=company&envId=waymo&favoriteSlug=waymo-all) | 🔴 Hard | python3 | 2026-05-27 |
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=company&envId=palo-alto-networks&favoriteSlug=palo-alto-networks-all) | 🔴 Hard | plaintext | 2026-05-22 |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-03-02 |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🔴 Hard | python3 | 2026-02-24 |
