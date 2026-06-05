@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 168
+- **Total Problems Solved:** 169
 - **Easy:** 42 🟢
-- **Medium:** 114 🟡
+- **Medium:** 115 🟡
 - **Hard:** 12 🔴
 
 ## 📝 Problems
@@ -119,6 +119,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-09 |
 | [348. Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/description/?envType=company&envId=waymo&favoriteSlug=waymo-all) | 🟡 Medium | python3 | 2026-05-27 |
 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/submissions/1881586333/) | 🟡 Medium | python3 | 2026-01-11 |
+| [3584. Maximum Product of First and Last Elements of a Subsequence](https://leetcode.com/problems/maximum-product-of-first-and-last-elements-of-a-subsequence/description/?envType=company&envId=kla&favoriteSlug=kla-all) | 🟡 Medium | python3 | 2026-06-05 |
 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-24 |
 | [3634. Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-24 |
 | [364. Nested List Weight Sum II](https://leetcode.com/problems/nested-list-weight-sum-ii/submissions/1981464828/) | 🟡 Medium | python3 | 2026-04-18 |
