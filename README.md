@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 169
+- **Total Problems Solved:** 170
 - **Easy:** 42 🟢
-- **Medium:** 115 🟡
+- **Medium:** 116 🟡
 - **Hard:** 12 🔴
 
 ## 📝 Problems
@@ -143,6 +143,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-21 |
 | [545. Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-22 |
 | [55. Jump Game](https://leetcode.com/problems/jump-game/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-19 |
+| [554. Brick Wall](https://leetcode.com/problems/brick-wall/description/?envType=company&envId=kla&favoriteSlug=kla-all) | 🟡 Medium | python3 | 2026-06-08 |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-05 |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/?envType=company&envId=facebook&favoriteSlug=facebook-thirty-days) | 🟡 Medium | python3 | 2026-02-20 |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | 🟡 Medium | python3 | 2026-02-20 |
